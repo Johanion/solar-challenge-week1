@@ -1,4 +1,4 @@
-# Moonight Solar Fam Data Analysis
+# Moonight Solar Farm Data Analysis
 
 This project is dedicated to analyzing solar farm data for Moonight Company. The main goal is to process, analyze, and generate insights from solar farm datasets to help improve operational efficiency and decision-making.
 
